@@ -1,0 +1,6 @@
+no/oslomet/cs/algdat/Oblig3/Oppgave.java
+ no.oslomet.cs.algdat.Oblig3.Oppgave
+no/oslomet/cs/algdat/Oblig3/SBinTre.java
+ no.oslomet.cs.algdat.Oblig3.SBinTre
+ no.oslomet.cs.algdat.Oblig3.SBinTre$1
+ no.oslomet.cs.algdat.Oblig3.SBinTre$Node
